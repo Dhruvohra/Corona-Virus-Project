@@ -111,6 +111,9 @@ if __name__ == "__main__":
         elif "open yahoo" in query:
             webbrowser.open("yahoo.com")
 
+        elif "open FB" in query:
+            webbrowser.open("facebook.com")
+s
         elif "open stack overflow" in query:
             webbrowser.open("stackoverflow.com")
 
